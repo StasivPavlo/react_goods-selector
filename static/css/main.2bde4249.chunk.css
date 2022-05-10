@@ -1,0 +1,2 @@
+div,h1,h2,h3,h4,ol,ul{padding:0;margin:0}.App,.product{display:flex}.product{flex-direction:column;align-items:center;margin:0 auto}.product__title{margin-bottom:15px;text-align:center}.product__title-clear{margin-right:10px}.product__list{display:grid;grid-template-columns:180px 100px}.product__select{margin-left:10px}.active{background-color:#f77}
+/*# sourceMappingURL=main.2bde4249.chunk.css.map */
